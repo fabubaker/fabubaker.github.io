@@ -184,7 +184,7 @@ blockquote *:last-child {
 }
 
 header {
-	padding: 2rem 1.5rem;
+	padding-top: 2rem;
 
 	/* This sets the right and left margins to cancel out the body's margins. */
 	/* It's width is still the same, but the background stretches across the page's width. */
@@ -437,3 +437,18 @@ input {
 img {
 	max-width: 100%;
 }
+
+/* Custom CSS classes */
+
+.main {
+	display: flex;
+	align-items: center;
+}
+
+.me {
+	width: 30%;
+	height: auto;
+	border-radius: 50%;
+	padding: 10px;
+}
+
