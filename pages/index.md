@@ -1,6 +1,5 @@
 ---
 layout: index
-last_modified: "28-Dec-2021"
 ---
 Hi, I'm Fadhil.
 

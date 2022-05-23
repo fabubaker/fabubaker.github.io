@@ -1,5 +1,8 @@
 {
   "SourceDir" : "pages",
   "LayoutDir" : "layouts",
-  "PublishDir": "public"
+  "PublishDir": "public",
+  "Params": {
+    "LastModified": "28-Dec-2021"
+  }
 }
