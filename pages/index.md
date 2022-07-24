@@ -1,7 +1,6 @@
 ---
 layout: index
 ---
-Hi, I'm Fadhil.
 
 I'm a Computer Science MMath student at the [University of
 Waterloo](https://cs.uwaterloo.ca/), advised by [Prof. Khuzaima
@@ -16,8 +15,6 @@ There, I worked on
 [start-up](https://www.linkedin.com/company/rayyanapp). I was also part of a
 [biology lab](https://github.com/YounisLab/), where I built tools and pipelines
 for RNA-Seq.
-
----
 
 #### Contact:
 
