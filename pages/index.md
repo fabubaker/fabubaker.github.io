@@ -7,7 +7,7 @@ Waterloo](https://cs.uwaterloo.ca/), advised by [Prof. Khuzaima
 Daudjee](https://cs.uwaterloo.ca/~kdaudjee/).
 
 Prior to that, I used to be a Software Engineer at
-[QCRI](https://www.hbku.edu.qa/en/qcri/about).
+[QCRI](https://www.hbku.edu.qa/en/qcri/).
 
 There, I worked on
 [some](https://www.rayyan.ai/) [cool](https://saqr.qcri.org/)
