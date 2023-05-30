@@ -33,8 +33,8 @@ Joao Palotti <br/>
 [IEEE PerCom Workshop](https://ieeexplore.ieee.org/document/9767286)
 
 ### 2021
-**PDX1- /NKX6.1+ progenitors derived from human pluripotent stem cells as a novel
-source of insulin-secreting cells** <br/>
+**PDX1- /NKX6.1+ Progenitors Derived from Human Pluripotent Stem Cells as a Novel
+Source of Insulin-Secreting Cells** <br/>
 Bushra Memon, Ihab Younis, _Fadhil Abubaker_, Essam M. Abdelalim <br/>
 [Diabetes/Metabolism Research and Reviews](https://pubmed.ncbi.nlm.nih.gov/32857429/)
 
