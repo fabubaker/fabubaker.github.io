@@ -21,7 +21,7 @@ now a [VC-backed company](https://www.linkedin.com/company/rayyanapp) with
 I graduated from [Carnegie Mellon University in
 Qatar](https://www.qatar.cmu.edu/) in 2018 with a BSc in Computer Science, where
 I worked with [Prof. Ihab
-Younis](https://www.qf.org.qa/media-center/experts/dr-ihab-younis) on building
+Younis](https://www.cmu.edu/bio/people/faculty/younis.html) on building
 [tools and pipelines](https://github.com/YounisLab/) for RNA-Seq analysis.
 
 ## Publications
