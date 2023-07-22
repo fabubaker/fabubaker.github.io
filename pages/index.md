@@ -24,7 +24,7 @@ There, I was involved in computational biology research, working with
 [Ihab Younis](https://www.cmu.edu/bio/people/faculty/younis.html)
 on building tools and pipelines for RNA-Seq analysis.
 
-## Publications
+### Publications
 
 **Tasrif: Processing Wearable Data in Python** <br/>
 Abdulaziz Al Homaid, Syed Hashim, <u>Fadhil Abubaker</u>, Ummar Abbas, Faisal Farooq,
@@ -46,8 +46,7 @@ and Essam M. Abdelalim <br/>
 _Stem Cells and Development 2020_ <br/>
 [paper](https://pubmed.ncbi.nlm.nih.gov/31996098/)
 
----
-**Contact:**
+### Contact
 
 * Email: [f2abubak@uwaterloo.ca](mailto: f2abubak@uwaterloo.ca)
 * GitHub: [@fabubaker](https://github.com/fabubaker)
