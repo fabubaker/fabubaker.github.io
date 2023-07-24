@@ -13,10 +13,13 @@ particularly interested in adapting existing database architectures to modern
 hardware.
 
 Previously, I used to be a Software Engineer at
-[QCRI](https://www.hbku.edu.qa/en/qcri/), where I worked on scaling
-[Rayyan](https://www.rayyan.ai/), a popular online research platform. Rayyan is
-now an independent [startup](https://www.linkedin.com/company/rayyanapp)
-with 250,000+ users.
+[QCRI](https://www.hbku.edu.qa/en/qcri/), where I worked on solving large-scale
+infrastructure problems. I was primarily involved in scaling
+[Rayyan](https://www.rayyan.ai/), a popular online research platform developed
+at QCRI and used by researchers around the world. Rayyan was eventually
+commercialized into an independent
+[startup](https://www.linkedin.com/company/rayyanapp) and now has more than
+250,000+ users.
 
 I graduated from [CMU-Qatar](https://www.qatar.cmu.edu/) in 2018 with a B.Sc. in
 Computer Science and a minor in Math. <br/>
