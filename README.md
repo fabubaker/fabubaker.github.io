@@ -16,3 +16,7 @@ different commit ids compared to `master`).
 
 The `public` directory is where the output of `hastie` goes to. This is what
 gets served by GitHub Pages.
+
+1. Make changes to files **not** in `public`.
+2. Commit changes. Push master to origin.
+3. Run `git subtree push --prefix public origin gh-pages` to push gh-pages.
