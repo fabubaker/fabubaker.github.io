@@ -11,3 +11,8 @@ specified remote.
 As a result, there is never a need to directly modify the `gh-pages` branch, it
 will automatically be updated with the `git subtree` commanded (albeit with
 different commit ids compared to `master`).
+
+---
+
+The `public` directory is where the output of `hastie` goes to. This is what
+gets served by GitHub Pages.
